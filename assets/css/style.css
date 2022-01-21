@@ -1,0 +1,13 @@
+body {
+    background: #000000;
+
+}
+.posicion1{
+    position: absolute;
+    width: 100%;
+    z-index: 999;
+}
+.posicion{
+    position: absolute;
+    top: 0;
+}
