@@ -1,5 +1,12 @@
+html{
+    scroll-behavior: auto !important;
+}
+
+
+
 body {
     background: #000000;
+    font-family: "Raleway";
 
 }
 .posicion1{
@@ -10,4 +17,33 @@ body {
 .posicion{
     position: absolute;
     top: 0;
+}
+#plano {
+    background: #17A2B8;
+}
+#parte2 {
+    color:#ffffff;
+}
+.linea1{
+    
+    margin-left: 35px;
+    margin-right: 40px;
+    
+}
+#parte3 {
+    color:#ffffff;
+}
+#parte4 {
+    color:#ffffff;
+}
+#enviar {
+    color: #ffffff;
+}
+#Footer{
+    background: #17A2B8;
+    
+}
+#Footer a{
+    color: #ffffff;
+    text-decoration: none;
 }
